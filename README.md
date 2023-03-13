@@ -12,4 +12,8 @@ The demo also shows how to load the Tesseract DLL only when needed, and how to s
 + Copy the TesseractOCR5 directory to your Delphi project directory.
 + Add TesseractOCR5\Source to your Delphi project search path.
 
+# DEMO screenshot
+![image](https://user-images.githubusercontent.com/11525545/224854565-4a0263ef-39a7-441a-bf78-6dd0503f57a9.png)
+
+
 
